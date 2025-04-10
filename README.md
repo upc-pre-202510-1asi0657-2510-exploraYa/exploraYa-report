@@ -3,7 +3,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software - 7mo Ciclo</strong><br>
     <strong>Fundamentos de Arquitectura de Software</strong><br>
-    <strong>1ASI0657</strong><br>
+    <strong>1ASI0657 - 3588</strong><br>
     <strong>Profesor: Ernesto Ocampo Tello</strong><br>
     <br><strong>Report</strong><br>
     <br><strong>ExploraYa</strong><br>
@@ -16,7 +16,7 @@
 
 | Member                              |    Code    |
 | :---------------------------------- | :--------: |
-|         |  |
+| Paolo Gonzalo Párraga Gamarra       | u202219186 |
 | Cama Salvatierra, Jimena Tamara     | u202210778 |
 | Castillo Castillo, Jair Alexander   | u202211390 |
 | Quezada Portalatino, Barbara Susana | u202211800 |
