@@ -85,6 +85,7 @@ En cambio, la **Exploradora** se orienta hacia **tareas más vivenciales**, como
 
 ### 2.3.3 Empathy Maps
 
+![José](https://github.com/user-attachments/assets/c7b7734e-fe15-416f-9767-faf55a454b96)
 
 ### 2.3.4 As-is Scenario Mapping
 
