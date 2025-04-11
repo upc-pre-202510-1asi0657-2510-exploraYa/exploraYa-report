@@ -235,7 +235,7 @@ Este User Task Matrix resume las tareas reales que cada perfil realiza para alca
 | Recordar experiencias pasadas para decidir qué repetir   | Baja                          | Media                           | Alta                          | Media                            |
 
 
-### **Análisis del User Task Matrix**
+## **Análisis del User Task Matrix**
 
 Se observa que el **Emprendedor** concentra sus esfuerzos en **tareas estratégicas** como diseñar actividades atractivas, diferenciarse de la competencia, y conectarse con el público a través de la comprensión de sus intereses, lo cual está muy alineado con su motivación de destacar en el mercado local.
 
@@ -243,7 +243,12 @@ En cambio, la **Exploradora** se orienta hacia **tareas más vivenciales**, como
 
 ### 2.3.3 Empathy Maps
 
+### EMPRESA -> Emprendedor: José
 ![José](https://github.com/user-attachments/assets/c7b7734e-fe15-416f-9767-faf55a454b96)
+
+### USUARIO -> Exploradora: Carolina
+![José (1)](https://github.com/user-attachments/assets/6836eb7c-c1fd-4c93-9ea8-618950a52a7b)
+
 
 ### 2.3.4 As-is Scenario Mapping
 
