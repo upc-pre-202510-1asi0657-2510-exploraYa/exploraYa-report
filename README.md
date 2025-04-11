@@ -318,13 +318,33 @@ El desarrollo de AventuraPe se enmarca dentro de las siguientes limitaciones y d
 
 **Análisis Profundo (5 W’s y 2 H’s):**
 
-* **Who (Quién):** Individuos y grupos urbanos (principalmente jóvenes adultos, 18-35 años) en busca de romper la rutina; y negocios locales (cafés, talleres, centros de ocio, etc.) deseosos de mayor visibilidad y clientela.
-* **What (Qué):** Una **plataforma web** inteligente que actúa como curadora de micro aventuras personalizadas y espontáneas, conectando oferta y demanda local.
-* **Where (Dónde):** Principalmente en entornos urbanos y semiurbanos de Perú con una oferta diversa de actividades y una población conectada digitalmente.
-* **When (Cuándo):** En cualquier momento de ocio inesperado: tardes libres, fines de semana, pausas en el trabajo, o durante visitas a nuevas zonas de la ciudad.
-* **Why (Por qué):** Para combatir la monotonía, facilitar el descubrimiento local, promover la espontaneidad y dinamizar la economía de pequeños negocios.
-* **How (Cómo):** A través de algoritmos que consideran ubicación, preferencias del usuario (implícitas y explícitas), tiempo disponible y popularidad, presentados en una **interfaz web** intuitiva y atractiva, respaldada por un backend robusto.
-* **How Much (Cuánto):** Requiere una inversión inicial para el desarrollo tecnológico (**web** y backend), seguida de estrategias de marketing digital y un modelo de negocio sostenible basado en **comisión** por transacción o reserva facilitada a través de la plataforma.
+**Who? - ¿Quién?** <br>
+
+Individuos y grupos urbanos (principalmente jóvenes adultos, 18-35 años) en busca de romper la rutina; y negocios locales (cafés, talleres, centros de ocio, etc.) deseosos de mayor visibilidad y clientela.
+
+**What? - ¿Qué?** <br>
+
+Una **plataforma web** inteligente que actúa como curadora de micro aventuras personalizadas y espontáneas, conectando oferta y demanda local.
+
+**Where? - ¿Dónde?**<br>
+
+Principalmente en entornos urbanos y semiurbanos de Perú con una oferta diversa de actividades y una población conectada digitalmente.
+
+**When? - ¿Cuando?** <br>
+
+En cualquier momento de ocio inesperado: tardes libres, fines de semana, pausas en el trabajo, o durante visitas a nuevas zonas de la ciudad.
+
+**Why? - ¿Por qué?**<br>
+
+Para combatir la monotonía, facilitar el descubrimiento local, promover la espontaneidad y dinamizar la economía de pequeños negocios.
+
+**How? - ¿Cómo?** <br>
+
+A través de algoritmos que consideran ubicación, preferencias del usuario (implícitas y explícitas), tiempo disponible y popularidad, presentados en una **interfaz web** intuitiva y atractiva, respaldada por un backend robusto.
+
+**How much? - ¿Cuánto?** <br>
+
+Requiere una inversión inicial para el desarrollo tecnológico (**web** y backend), seguida de estrategias de marketing digital y un modelo de negocio sostenible basado en **comisión** por transacción o reserva facilitada a través de la plataforma.
 
 ### 1.2.3 Lean UX Process
 
