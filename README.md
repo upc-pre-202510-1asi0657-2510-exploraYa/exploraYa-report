@@ -252,19 +252,15 @@ En cambio, la **Exploradora** se orienta hacia **tareas más vivenciales**, como
 ### 2.3.4 As-is Scenario Mapping
 **Usuario emprendedor**<br>
 En esta sección, se describe el escenario actual que enfrenta un emprendedor local antes de la implementación de AventuraPe. Este mapeo ilustra los pasos que realiza para promocionar su negocio, desde la búsqueda de espacios publicitarios hasta el análisis del impacto de su promoción. Se destacan las tareas que ejecuta manualmente, los pensamientos que le surgen en el proceso y las emociones que experimenta. Este recorrido refleja una experiencia cargada de estrés, ansiedad y frustración debido a la falta de herramientas centralizadas, la escasa medición de resultados y la limitada visibilidad.
-<br>
-![AVENTURAPE-DIAGRAMAS - SCENARIO MAP](https://github.com/user-attachments/assets/863b9a54-84f2-4b85-bb2e-2c506157ce56)
-<br>
+<br><img src="./assets/scenarios maps/asisEMPRE.jpeg" alt="as is emprendedor" min-width="400" max-width="900"/><br>
 **Usuario aventurero**<br>
 Este mapeo presenta la experiencia actual de un usuario interesado en explorar nuevas actividades, sin contar con la solución que propone AventuraPe. Desde la búsqueda de aplicaciones hasta la interacción con conocidos para conseguir recomendaciones, el usuario enfrenta un camino desarticulado y poco eficiente. Se observan emociones como ansiedad, agotamiento y estrés, resultado de procesos poco intuitivos, falta de retroalimentación formal, y un acceso limitado a actividades espontáneas y relevantes.
-<br>
-![AVENTURAPE-DIAGRAMAS - SCENARIO MAP (1)](https://github.com/user-attachments/assets/da5b95a7-0d43-4607-92bc-e89af429b386)
-
+<br><img src="./assets/scenarios maps/asisUSER.jpeg" alt="as is user" min-width="400" max-width="900"/><br>
 ## 2.4. Requirements specification
 ### 2.3.4 To-Be Scenario Mapping
 **Usuario emprendedor**
 <br>Con la introducción de AventuraPe, el proceso para los emprendedores locales se transforma significativamente. Este escenario ideal muestra cómo el emprendedor puede realizar acciones clave como registrar su negocio, publicar actividades y analizar la acogida desde una sola aplicación, de manera rápida y sencilla. El mapa refleja pensamientos positivos relacionados con la facilidad de uso y el control sobre sus publicaciones, así como emociones de tranquilidad, alegría y asombro, gracias a una experiencia más amigable, medible y efectiva.
-<br>
+<br><img src="./assets/scenarios maps/tobeEMPRE.jpeg" alt="as is emprendedor" min-width="400" max-width="900"/><br>
 **Usuario aventurero**<br>
 El escenario ideal para el usuario aventurero con AventuraPe demuestra una experiencia mucho más fluida y gratificante. Desde el descubrimiento de la aplicación hasta la exploración de aventuras y la publicación de reseñas, el usuario disfruta de un proceso intuitivo y accesible. Sus pensamientos son positivos, destacando la utilidad, accesibilidad y comunidad de la app, mientras que sus emociones se tornan alegres, serenas y de satisfacción por poder vivir y compartir experiencias de forma más sencilla y confiable.
-<br>
+<br><img src="./assets/scenarios maps/tobeUSER.jpeg" alt="as is emprendedor" min-width="400" max-width="900"/><br>
