@@ -85,10 +85,10 @@ En cambio, la **Exploradora** se orienta hacia **tareas más vivenciales**, como
 
 ### 2.3.3 Empathy Maps
 
-# EMPRESA (Emprendedor: José)
+### EMPRESA -> Emprendedor: José)
 ![José](https://github.com/user-attachments/assets/c7b7734e-fe15-416f-9767-faf55a454b96)
 
-# USUARIO (Exploradora: Carolina)
+### USUARIO -> Exploradora: Carolina)
 ![José (1)](https://github.com/user-attachments/assets/6836eb7c-c1fd-4c93-9ea8-618950a52a7b)
 
 
