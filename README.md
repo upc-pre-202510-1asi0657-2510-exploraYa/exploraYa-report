@@ -283,44 +283,43 @@ Esta situación provoca una brecha entre la oferta disponible y la demanda, y mu
 
 **5 W’s y 2 H’s**
 
-**Who (¿Quién?)** <br>
-- Usuarios locales con tiempo libre que buscan actividades rápidas y cercanas para distraerse sin planificación extensa.
-- Restaurantes, emprendedores y negocios locales que buscan nuevas formas de atraer clientela espontánea y cercana.
+- **Who (¿Quién?)** <br>
+  -  Usuarios locales con tiempo libre que buscan actividades rápidas y cercanas para distraerse sin planificación extensa.
+  - Restaurantes, emprendedores y negocios locales que buscan nuevas formas de atraer clientela espontánea y cercana.
 
-**What (¿Qué?)**
+- **What (¿Qué?)**
 Página web que sugiere experiencias cercanas en función de la ubicación del usuario, el tiempo disponible, sus intereses y promociones activas.
 
-**Where (¿Dónde?)**
+- **Where (¿Dónde?)**
 En áreas urbanas del Perú, empezando por Lima y otras ciudades con alta concentración de negocios locales y usuarios con rutinas flexibles.
 
-**When (¿Cuándo?)**
+- **When (¿Cuándo?)**
 En el contexto actual de dinámicas sociales más flexibles, donde las personas buscan espacios para despejarse, comer algo diferente o descubrir nuevos lugares cerca sin necesidad de planificar.
 
-**Why (¿Por qué?)**
+- **Why (¿Por qué?)**
 Los usuarios locales muchas veces desconocen las opciones cercanas para pasar el tiempo libre, y los negocios pequeños no cuentan con canales eficaces para atraer clientela de manera inmediata.
-
 AventuraPe visibiliza estos locales en el momento oportuno y mejora la conexión entre oferta y demanda en tiempo real.
 
-**How (¿Cómo?)**
+- **How (¿Cómo?)**
 Mediante una arquitectura de microservicios, donde cada módulo (usuarios, negocios, filtros, geolocalización, recomendaciones) opera de forma independiente y escalable.
 Se utilizan tecnologías cloud-native y APIs REST.
 
-**How Much (¿Cuánto?)**
+- **How Much (¿Cuánto?)**
 El costo dependerá de la infraestructura cloud, desarrollo y mantenimiento de microservicios, escalado automático y soporte. Se contempla un modelo freemium para usuarios, y modelo de suscripción o comisión por promoción para negocios locales.
 
 ### 1.2.3 Lean UX Process
 
 #### 1.2.3.1 Lean UX Problem Statements
 
-**AventuraPe** fue diseñado para ayudar a los residentes locales a descubrir y participar en actividades de tiempo libre en su ciudad. **Hemos observado que** el servicio no está satisfaciendo esta necesidad de descubrimiento eficiente, **lo que causa** que los residentes sigan limitados a sus rutinas habituales y no exploren nuevas experiencias disponibles en su entorno. **¿Cómo podríamos** mejorar AventuraPe para que nuestros usuarios puedan descubrir y conectar con experiencias locales de manera más efectiva, medido por un aumento en la participación en nuevas actividades y mayor tiempo de uso de la plataforma?
+- **AventuraPe** fue diseñado para ayudar a los residentes locales a descubrir y participar en actividades de tiempo libre en su ciudad. **Hemos observado que** el servicio no está satisfaciendo esta necesidad de descubrimiento eficiente, **lo que causa** que los residentes sigan limitados a sus rutinas habituales y no exploren nuevas experiencias disponibles en su entorno. **¿Cómo podríamos** mejorar AventuraPe para que nuestros usuarios puedan descubrir y conectar con experiencias locales de manera más efectiva, medido por un aumento en la participación en nuevas actividades y mayor tiempo de uso de la plataforma?
 
-**AventuraPe** fue diseñado para permitir a restaurantes y emprendimientos locales atraer nueva clientela. **Hemos observado que** la plataforma no está cumpliendo eficazmente con este objetivo de captación de clientes, **lo que causa** pérdidas de ingresos potenciales y subutilización de la capacidad instalada de estos negocios. **¿Cómo podríamos** mejorar AventuraPe para que los emprendedores consigan atraer más clientes locales, medido por un incremento cuantificable en su clientela y mejora en sus indicadores de negocio?
+- **AventuraPe** fue diseñado para permitir a restaurantes y emprendimientos locales atraer nueva clientela. **Hemos observado que** la plataforma no está cumpliendo eficazmente con este objetivo de captación de clientes, **lo que causa** pérdidas de ingresos potenciales y subutilización de la capacidad instalada de estos negocios. **¿Cómo podríamos** mejorar AventuraPe para que los emprendedores consigan atraer más clientes locales, medido por un incremento cuantificable en su clientela y mejora en sus indicadores de negocio?
 
-**AventuraPe** fue diseñado para cerrar la brecha entre la oferta de experiencias disponibles y la demanda potencial en entornos urbanos. **Hemos observado que** el sistema no está logrando esta conexión eficiente, **lo que causa** oportunidades desaprovechadas tanto para usuarios como para proveedores de servicios. **¿Cómo podríamos** mejorar AventuraPe para facilitar un encuentro más efectivo entre oferta y demanda, medido por un aumento en la tasa de conversión de visualizaciones a visitas reales?
+- **AventuraPe** fue diseñado para cerrar la brecha entre la oferta de experiencias disponibles y la demanda potencial en entornos urbanos. **Hemos observado que** el sistema no está logrando esta conexión eficiente, **lo que causa** oportunidades desaprovechadas tanto para usuarios como para proveedores de servicios. **¿Cómo podríamos** mejorar AventuraPe para facilitar un encuentro más efectivo entre oferta y demanda, medido por un aumento en la tasa de conversión de visualizaciones a visitas reales?
 
-**AventuraPe** fue diseñado para proporcionar información confiable basada en experiencias reales que facilite la toma de decisiones. **Hemos observado que** el servicio no está generando suficiente confianza en sus recomendaciones, **lo que causa** indecisión en los usuarios y experiencias potencialmente insatisfactorias. **¿Cómo podríamos** mejorar AventuraPe para que nuestros usuarios puedan tomar decisiones más informadas y confiables, medido por un aumento en la satisfacción reportada y en la tasa de recomendación a otros usuarios?
+- **AventuraPe** fue diseñado para proporcionar información confiable basada en experiencias reales que facilite la toma de decisiones. **Hemos observado que** el servicio no está generando suficiente confianza en sus recomendaciones, **lo que causa** indecisión en los usuarios y experiencias potencialmente insatisfactorias. **¿Cómo podríamos** mejorar AventuraPe para que nuestros usuarios puedan tomar decisiones más informadas y confiables, medido por un aumento en la satisfacción reportada y en la tasa de recomendación a otros usuarios?
 
-**AventuraPe** fue diseñado para proporcionar a emprendedores y empresarios datos valiosos sobre preferencias y comportamientos de sus clientes. **Hemos observado que** la plataforma no está entregando información suficientemente útil y accionable, **lo que causa** dificultad para que los negocios adapten su oferta a las necesidades reales del mercado. **¿Cómo podríamos** mejorar AventuraPe para ofrecer estadísticas más relevantes y accionables, medido por el incremento en ajustes realizados a su oferta basados en los datos proporcionados y la satisfacción reportada con el servicio de analytics?
+- **AventuraPe** fue diseñado para proporcionar a emprendedores y empresarios datos valiosos sobre preferencias y comportamientos de sus clientes. **Hemos observado que** la plataforma no está entregando información suficientemente útil y accionable, **lo que causa** dificultad para que los negocios adapten su oferta a las necesidades reales del mercado. **¿Cómo podríamos** mejorar AventuraPe para ofrecer estadísticas más relevantes y accionables, medido por el incremento en ajustes realizados a su oferta basados en los datos proporcionados y la satisfacción reportada con el servicio de analytics?
 
 #### 1.2.3.2 Lean UX Assumptions
 
@@ -383,21 +382,21 @@ El costo dependerá de la infraestructura cloud, desarrollo y mantenimiento de m
 
 #### 1.2.3.3 Lean UX Hypothesis
 
-**Creemos que** los residentes locales tienen dificultad para descubrir nuevas experiencias en su tiempo libre y valorarán una plataforma dedicada a este propósito. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios expresando que han descubierto lugares que no conocían anteriormente y/o un 60% de retención de usuarios después del primer mes y/o un aumento constante en el número de actividades descubiertas a través de la plataforma.
+- **Creemos que** los residentes locales tienen dificultad para descubrir nuevas experiencias en su tiempo libre y valorarán una plataforma dedicada a este propósito. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios expresando que han descubierto lugares que no conocían anteriormente y/o un 60% de retención de usuarios después del primer mes y/o un aumento constante en el número de actividades descubiertas a través de la plataforma.
 
-**Creemos que** los dueños de restaurantes y emprendimientos locales están dispuestos a invertir tiempo en mantener un perfil actualizado en nuestra plataforma a cambio de mayor visibilidad. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: empresarios reportando un incremento en nuevos clientes atribuibles a la plataforma y/o una tasa de actualización semanal de perfiles superior al 70% y/o un aumento del 15% en ventas para los negocios participantes.
+- **Creemos que** los dueños de restaurantes y emprendimientos locales están dispuestos a invertir tiempo en mantener un perfil actualizado en nuestra plataforma a cambio de mayor visibilidad. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: empresarios reportando un incremento en nuevos clientes atribuibles a la plataforma y/o una tasa de actualización semanal de perfiles superior al 70% y/o un aumento del 15% en ventas para los negocios participantes.
 
-**Creemos que** el componente social (calificaciones, comentarios, seguimiento entre usuarios) generará suficiente engagement para mantener activa la plataforma. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios citando recomendaciones de amigos como motivo de visita a establecimientos y/o un promedio de 5 interacciones sociales por usuario activo por semana y/o un crecimiento del 25% mensual en contenido generado por usuarios.
+- **Creemos que** el componente social (calificaciones, comentarios, seguimiento entre usuarios) generará suficiente engagement para mantener activa la plataforma. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios citando recomendaciones de amigos como motivo de visita a establecimientos y/o un promedio de 5 interacciones sociales por usuario activo por semana y/o un crecimiento del 25% mensual en contenido generado por usuarios.
 
-**Creemos que** los empresarios valorarán los datos analíticos sobre sus clientes lo suficiente como para considerar pagar por funciones premium. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: empresarios mencionando decisiones de negocio tomadas basadas en nuestros datos y/o una tasa de conversión del 30% de usuarios freemium a premium y/o un promedio de 3 horas semanales de uso del dashboard analítico por negocio.
+- **Creemos que** los empresarios valorarán los datos analíticos sobre sus clientes lo suficiente como para considerar pagar por funciones premium. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: empresarios mencionando decisiones de negocio tomadas basadas en nuestros datos y/o una tasa de conversión del 30% de usuarios freemium a premium y/o un promedio de 3 horas semanales de uso del dashboard analítico por negocio.
 
-**Creemos que** una arquitectura de microservicios nos permitirá escalar de manera eficiente y adaptarnos a las necesidades cambiantes del mercado. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: tiempo de desarrollo reducido para nuevas funcionalidades y/o capacidad de manejar picos de tráfico sin degradación del servicio y/o reducción del 40% en tiempo de resolución de incidencias técnicas.
+- **Creemos que** una arquitectura de microservicios nos permitirá escalar de manera eficiente y adaptarnos a las necesidades cambiantes del mercado. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: tiempo de desarrollo reducido para nuevas funcionalidades y/o capacidad de manejar picos de tráfico sin degradación del servicio y/o reducción del 40% en tiempo de resolución de incidencias técnicas.
 
-**Creemos que** nuestro modelo de ingresos basado en funciones premium para empresarios, publicidad contextual y comisiones por reservas será sostenible. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: empresarios reportando buen ROI de las funciones premium y/o una tasa de conversión publicitaria un 30% superior al promedio de la industria y/o alcanzar el punto de equilibrio financiero en 18 meses.
+- **Creemos que** nuestro modelo de ingresos basado en funciones premium para empresarios, publicidad contextual y comisiones por reservas será sostenible. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: empresarios reportando buen ROI de las funciones premium y/o una tasa de conversión publicitaria un 30% superior al promedio de la industria y/o alcanzar el punto de equilibrio financiero en 18 meses.
 
-**Creemos que** nuestra plataforma generará un ciclo virtuoso donde más usuarios atraen a más empresarios y viceversa. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: crecimiento correlacionado entre ambos segmentos de usuarios y/o tasa de crecimiento que aumenta con el tiempo (efecto red) y/o reducción progresiva en costo de adquisición de clientes.
+- **Creemos que** nuestra plataforma generará un ciclo virtuoso donde más usuarios atraen a más empresarios y viceversa. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: crecimiento correlacionado entre ambos segmentos de usuarios y/o tasa de crecimiento que aumenta con el tiempo (efecto red) y/o reducción progresiva en costo de adquisición de clientes.
 
-**Creemos que** nuestro enfoque especializado en experiencias locales de tiempo libre nos distinguirá de competidores como Google Maps o redes sociales generales. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios mencionando específicamente nuestra ventaja sobre otras plataformas y/o mayor tiempo promedio de uso comparado con aplicaciones similares y/o mayor tasa de conversión (visualización a visita) que plataformas competidoras.
+- **Creemos que** nuestro enfoque especializado en experiencias locales de tiempo libre nos distinguirá de competidores como Google Maps o redes sociales generales. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios mencionando específicamente nuestra ventaja sobre otras plataformas y/o mayor tiempo promedio de uso comparado con aplicaciones similares y/o mayor tasa de conversión (visualización a visita) que plataformas competidoras.
 
 #### 1.2.3.4 Lean UX Canvas
 <img src="images/LEAN_UX_CANVAS/LEAN_UX_CANVAS_AVENTURA_PE@2x.png">
