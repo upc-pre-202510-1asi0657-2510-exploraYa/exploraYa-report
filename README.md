@@ -329,15 +329,15 @@ El costo dependerá de la infraestructura cloud, desarrollo y mantenimiento de m
 
 2. **Estas necesidades pueden resolverse con** una plataforma social que conecte a usuarios locales con restaurantes y emprendimientos, facilitando el descubrimiento, las reseñas y el análisis de datos.
 
-3. **Mis clientes iniciales son (o serán)** residentes urbanos de 18-40 años que buscan actividades para su tiempo libre y dueños de restaurantes/emprendimientos locales que desean aumentar su clientela.
+3. **Mis clientes iniciales son (o serán)** residentes urbanos de 18-50 años que buscan actividades para su tiempo libre y dueños de restaurantes/emprendimientos locales que desean aumentar su clientela.
 
 4. **El valor #1 que un cliente quiere obtener de mi servicio es** para usuarios, descubrir experiencias locales recomendadas por otros; para empresarios, aumentar su visibilidad y atraer nueva clientela.
 
-5. **El cliente también puede obtener estos beneficios adicionales:** usuarios: comunidad social, estatus por compartir experiencias, ofertas exclusivas; empresarios: datos analíticos, retroalimentación directa, optimización de su oferta.
+5. **El cliente también puede obtener estos beneficios adicionales:** usuarios: comunidad social, estatus por compartir experiencias, ofertas exclusivas; empresarios: datos analíticos, optimización de su oferta.
 
 6. **Adquiriré la mayoría de mis clientes a través de** marketing en redes sociales, alianzas con negocios locales populares, y estrategias de crecimiento orgánico mediante recomendaciones de usuario a usuario.
 
-7. **Ganaré dinero mediante** un modelo freemium para empresarios (funciones básicas gratuitas, funciones avanzadas de análisis y promoción pagas), publicidad contextual relevante, y comisiones por reservas realizadas a través de la plataforma.
+7. **Ganaré dinero mediante** una membresía de pago para empresarios para acceder a todos los beneficios de la solución.
 
 8. **Mi principal competencia en el mercado será** aplicaciones de reseñas como Google Maps/TripAdvisor, plataformas de descubrimiento local, y redes sociales tradicionales donde los negocios ya tienen presencia.
 
@@ -370,8 +370,8 @@ El costo dependerá de la infraestructura cloud, desarrollo y mantenimiento de m
    - Para empresarios: Se usa regularmente para actualizar ofertas y promociones, y periódicamente para análisis de datos y ajuste de estrategias comerciales.
 
 5. **¿Qué características son importantes?**
-   - Para usuarios: Descubrimiento personalizado, sistema de calificaciones y reseñas confiable, interfaz intuitiva, notificaciones relevantes de nuevas ofertas y experiencias.
-   - Para empresarios: Dashboard de estadísticas, gestión sencilla de publicaciones, perfil de negocio personalizable, feedback de clientes, promociones destacadas.
+   - Para usuarios: Descubrimiento personalizado, sistema de calificaciones y reseñas confiable e interfaz intuitiva.
+   - Para empresarios: Dashboard de estadísticas, gestión sencilla de publicaciones, perfil de negocio personalizable.
 
 6. **¿Cómo debería verse y comportarse nuestro producto?**
    - Interfaz limpia y visual, centrada en imágenes y experiencias, con navegación intuitiva.
@@ -400,7 +400,7 @@ El costo dependerá de la infraestructura cloud, desarrollo y mantenimiento de m
 **Creemos que** nuestro enfoque especializado en experiencias locales de tiempo libre nos distinguirá de competidores como Google Maps o redes sociales generales. **Sabremos que estamos en lo correcto/incorrecto** cuando veamos los siguientes comentarios del mercado: usuarios mencionando específicamente nuestra ventaja sobre otras plataformas y/o mayor tiempo promedio de uso comparado con aplicaciones similares y/o mayor tasa de conversión (visualización a visita) que plataformas competidoras.
 
 #### 1.2.3.4 Lean UX Canvas
-en la noche lo subo :p
+<img src="images/LEAN_UX_CANVAS/LEAN_UX_CANVAS_AVENTURA_PE@2x.png">
 
 ## 1.3 Segmentos objetivo
 AventuraPe se dirige a dos segmentos principales claramente diferenciados. Por un lado, residentes locales urbanos de 18 a 50 años (principalmente millennials y generación Z) con nivel socioeconómico medio-alto, que poseen smartphones, están familiarizados con redes sociales (según estadísticas recientes, el 87% utiliza al menos tres plataformas sociales diariamente), valoran experiencias sobre posesiones materiales y dedican aproximadamente el 25% de sus ingresos a actividades de ocio y gastronomía.<br>
