@@ -121,7 +121,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ## 3.4. Product Backlog.
 
-| #  | User Story ID | Título                                            | Descripción                                                                                                                                                         | SP |
+| #  | User Story ID | Título                                            | Descripción                                                                                                                                                         | Story Points |
 |----|---------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | 1  | US08          | Publicar actividad (Empresario - Web)             | El empresario necesita poder publicar los detalles de una nueva actividad   o experiencia que ofrece para atraer clientes aventureros.                              | 13 |
 | 2  | US11          | Visualización de mapa (Aventurero - Web)          | El aventurero necesita poder ver un mapa interactivo con la ubicación de   las actividades para explorar opciones cercanas geográficamente.                         | 13 |
