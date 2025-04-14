@@ -81,10 +81,10 @@ Este análisis proporciona una visión detallada del panorama competitivo, desta
   </tr>
   <tr>
     <td colspan="6" valign="top"><b>Logo</b></td>
-    <td colspan="3" valign="top"><img src="/exploraYa-report/assets/competitive_analysis/eventbrite.png"></td>
-    <td colspan="3" valign="top"><img src="/exploraYa-report/assets/competitive_analysis/eventsIncity.png"></td>
-    <td colspan="3" valign="top"><img src="/exploraYa-report/assets/competitive_analysis/tickpick.png"></td>
-    <td valign="top"><img src="/exploraYa-report/assets/competitive_analysis/meetup.png"></td>
+    <td colspan="3" valign="top"><img src="../exploraYa-report/assets/competitive_analysis/eventbrite.png"></td>
+    <td colspan="3" valign="top"><img src="../exploraYa-report/assets/competitive_analysis/eventsIncity.png"></td>
+    <td colspan="3" valign="top"><img src="../exploraYa-report/assets/competitive_analysis/tickpick.png"></td>
+    <td valign="top"><img src="../exploraYa-report/assets/competitive_analysis/meetup.png"></td>
   </tr>
   <tr>
     <td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td>
