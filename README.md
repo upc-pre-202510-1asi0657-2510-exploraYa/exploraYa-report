@@ -64,28 +64,113 @@ En este apartado el equipo realizará investigaciones sobre nuestros potenciales
 
 Este análisis proporciona una visión detallada del panorama competitivo, destacando las áreas clave donde AventuraPe puede diferenciarse y ofrecer un valor único a sus clientes.
 
-| **Competitive Analysis Landscape** |           |          |            |            |          |
-|------------------------------------|-----------|----------|------------|------------|----------|
-| ¿Por qué llevar a cabo este análisis? | Para identificar cómo AventuraPe puede diferenciarse en el mercado de experiencias locales, aprovechando su enfoque en microaventuras espontáneas y personalizadas. |          |            |            |          |
-| Competidores                        | Eventbrite | All Events in City | TickPick   | Meetup     |          |
-| Logos                               | ![Eventbrite](./assets/competitive_analysis/eventbrite.png) | ![All Events](./assets/competitive_analysis/eventsIncity.png) | ![TickPick](./assets/competitive_analysis/tickpick.png) | ![Meetup](./assets/competitive_analysis/meetup.png) |          |
-| Perfil                              | Plataforma global que permite a organizadores de eventos planificar, promocionar y vender entradas. | Plataforma que ayuda a los usuarios a descubrir eventos en su ciudad. | Mercado en línea para compra y venta de entradas a eventos. | Plataforma que conecta a personas con intereses similares a través de eventos. |          |
-| Ventaja competitiva                 | Amplia cobertura de eventos, herramientas robustas para organizadores. | Proporciona una guía completa de eventos locales. | Ofrece una experiencia de compra transparente sin tarifas ocultas. | Facilita la creación y participación en comunidades locales. |          |
-| Perfil de marketing                 | Organizadores de eventos de todos los tamaños. | Residentes urbanos y turistas que desean descubrir actividades locales. | Aficionados a deportes, música y entretenimiento en vivo. | Personas que buscan conectar con otros que comparten intereses. |          |
-| Estrategias de marketing            | Enfocada en colaboración con organizadores y asociaciones. | Utiliza SEO local y publicidad en redes sociales. | Campañas de marketing digital dirigidas a fanáticos de eventos. | Se basa en contenido generado por usuarios y viralidad. |          |
-| Productos & Servicios               | Venta de entradas y herramientas de marketing. | Listado de eventos locales y recomendaciones personalizadas. | Plataforma de compra y venta de entradas. | Gestión de eventos y comunidad online. |          |
-| Precios y Costos                    | Comisiones basadas en el precio de la entrada vendida. | Opciones premium y freemium. | Comisión incluida en el precio de la entrada. | Suscripción mensual para organizadores, acceso gratuito para usuarios. |          |
-| Canales de distribución             | Web y app móvil (iOS y Android). |            |            |            |          |
+<table>
+  <tr>
+    <th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="7" valign="top">Permite a AventuraPe entender mejor el mercado en el que opera, identificar las fortalezas y debilidades de sus competidores, y desarrollar estrategias que permitan diferenciarse y ofrecer un valor superior a los clientes.</td>
+  </tr>
+  <tr>
+    <td colspan="6" valign="top"><p><b>Nombre</b></p></td>
+    <td colspan="3" valign="top"><b>Eventbrite</b></td>
+    <td colspan="3" valign="top"><b>All Events in City</b></td>
+    <td colspan="3" valign="top"><b>TickPick</b></td>
+    <td valign="top"><b>Meetup</b></td>
+  </tr>
+  <tr>
+    <td colspan="6" valign="top"><b>Logo</b></td>
+    <td colspan="3" valign="top"><img src="/exploraYa-report/assets/competitive_analysis/eventbrite.png"></td>
+    <td colspan="3" valign="top"><img src="/exploraYa-report/assets/competitive_analysis/eventsIncity.png"></td>
+    <td colspan="3" valign="top"><img src="/exploraYa-report/assets/competitive_analysis/tickpick.png"></td>
+    <td valign="top"><img src="/exploraYa-report/assets/competitive_analysis/meetup.png"></td>
+  </tr>
+  <tr>
+    <td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td>
+    <td colspan="3" rowspan="2" valign="top"><b>Overview</b></td>
+    <td colspan="3" rowspan="2" valign="top">Una plataforma global que permite a los organizadores de eventos planificar, promocionar y vender entradas para sus eventos, así como gestionar la asistencia.</td>
+    <td colspan="3" rowspan="2" valign="top">Una plataforma que ayuda a los usuarios a descubrir eventos en su ciudad, ofreciendo una amplia lista de actividades que incluyen conciertos, talleres, festivales y más.</td>
+    <td colspan="3" rowspan="2" valign="top">Un mercado en línea para la compra y venta de entradas a eventos deportivos, conciertos y otros espectáculos. TickPick se distingue por no cobrar tarifas adicionales a los compradores.</td>
+    <td rowspan="2" valign="top">Una plataforma que conecta a personas con intereses similares a través de eventos y reuniones en persona.</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="3" rowspan="2" valign="top"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td>
+    <td colspan="3" rowspan="2" valign="top">Amplia cobertura de eventos, herramientas robustas para organizadores, y una plataforma global reconocida que facilita la promoción y venta de entradas.</td>
+    <td colspan="3" rowspan="2" valign="top">Proporciona una guía completa de eventos locales, permitiendo a los usuarios explorar y participar en actividades cerca de ellos sin necesidad de una planificación extensa.</td>
+    <td colspan="3" rowspan="2" valign="top">Ofrece una experiencia de compra transparente sin tarifas ocultas, lo que atrae a compradores de entradas que buscan evitar costos adicionales.</td>
+    <td rowspan="2" valign="top">Facilita la creación y participación en comunidades locales basadas en intereses comunes, fomentando la interacción y las conexiones personales.</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="3" rowspan="2" valign="top"><b>Perfil de Marketing</b></td>
+    <td colspan="3" valign="top"><b>Mercado objetivo</b></td>
+    <td colspan="3" valign="top">Organizadores de eventos de todos los tamaños, desde pequeñas reuniones hasta grandes conferencias y festivales.</td>
+    <td colspan="3" valign="top">Residentes urbanos y turistas que desean descubrir y participar en eventos y actividades locales.</td>
+    <td colspan="3" valign="top">Aficionados a los deportes, la música y el entretenimiento en vivo que buscan entradas a eventos sin cargos adicionales.</td>
+    <td valign="top">Personas que buscan conectar con otros que comparten intereses similares.</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><b>Estrategias de Marketing</b></td>
+    <td colspan="3" valign="top">Enfocada en la colaboración con organizadores de eventos y asociaciones con plataformas de redes sociales.</td>
+    <td colspan="3" valign="top">Utiliza SEO local y publicidad en redes sociales para atraer a usuarios que buscan actividades en su área.</td>
+    <td colspan="3" valign="top">Se apoya en campañas de marketing digital dirigidas a fanáticos de eventos en vivo.</td>
+    <td valign="top">Se basa en la creación de contenido generado por usuarios y el boca a boca, aprovechando la viralidad de las comunidades.</td>
+  </tr>
+  <tr>
+    <td colspan="3" rowspan="3" valign="top"><b>Perfil de producto</b></td>
+    <td colspan="3" valign="top"><b>Productos y Servicios</b></td>
+    <td colspan="3" valign="top">Venta de entradas y herramientas de marketing.</td>
+    <td colspan="3" valign="top">Listado de eventos locales, recomendaciones personalizadas, y herramientas para descubrir nuevas actividades.</td>
+    <td colspan="3" valign="top">Plataforma de compra y venta de entradas con precios transparentes, comparaciones de precios.</td>
+    <td valign="top">Gestión de eventos y comunidad online.</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><b>Precios y Costos</b></td>
+    <td colspan="3" valign="top">Comisiones basadas en el precio de la entrada vendida.</td>
+    <td colspan="3" valign="top">Opciones premium y freemium.</td>
+    <td colspan="3" valign="top">Comisión incluida en el precio de la entrada.</td>
+    <td valign="top">Suscripción mensual para organizadores de grupos, acceso gratuito para usuarios.</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><b>Canales de distribución</b></td>
+    <td colspan="3" valign="top">Web y app móvil (iOS y Android).</td>
+    <td colspan="3" valign="top">Web y app móvil (iOS y Android).</td>
+    <td colspan="3" valign="top">Web y app móvil (iOS y Android).</td>
+    <td valign="top">Web y app móvil (iOS y Android).</td>
+  </tr>
+  <tr>
+    <td colspan="3" rowspan="4" valign="top"><b>Análisis FODA</b></td>
+    <td colspan="3" valign="top"><b>Fortalezas</b></td>
+    <td colspan="3" valign="top">Amplia presencia global, herramientas completas para organizadores.</td>
+    <td colspan="3" valign="top">Enfoque local, cobertura amplia de eventos.</td>
+    <td colspan="3" valign="top">Precios transparentes, sin cargos adicionales.</td>
+    <td valign="top">Red activa de comunidades, alta interacción entre usuarios.</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><b>Debilidades</b></td>
+    <td colspan="3" valign="top">Dependencia de grandes eventos para ingresos significativos.</td>
+    <td colspan="3" valign="top">Limitada capacidad de atracción para eventos masivos.</td>
+    <td colspan="3" valign="top">Menor visibilidad frente a competidores más grandes.</td>
+    <td valign="top">Competencia con redes sociales para la creación de comunidades.</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><b>Oportunidades</b></td>
+    <td colspan="3" valign="top">Expansión a nuevos mercados, colaboración con grandes eventos.</td>
+    <td colspan="3" valign="top">Mayor enfoque en el turismo local y las experiencias personalizadas.</td>
+    <td colspan="3" valign="top">Aumento de la demanda para eventos en vivo post-pandemia.</td>
+    <td valign="top">Crecimiento en eventos virtuales.</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><b>Amenazas</b></td>
+    <td colspan="3" valign="top">Competencia de plataformas de redes sociales y eventos gratuitos.</td>
+    <td colspan="3" valign="top">Competencia de nuevas plataformas locales con enfoques similares.</td>
+    <td colspan="3" valign="top">Competencia de revendedores de entradas y plataformas de tickets oficiales.</td>
+    <td valign="top">Cambios en las tendencias de consumo de eventos.</td>
+  </tr>
+</table>
 
-### Análisis SWOT
-
-|           | Fortalezas                          | Debilidades                       | Oportunidades                     | Amenazas                          |
-|-----------|-------------------------------------|------------------------------------|------------------------------------|-----------------------------------|
-| AventuraPe | Personalización en tiempo real, enfoque en microaventuras. | Dependencia de empresas locales, necesidad de construir base de usuarios. | Aumento en demanda de experiencias locales únicas. | Competencia de apps similares, cambios en restricciones locales. |
-| Eventbrite | Amplia presencia global, herramientas completas. | Dependencia de grandes eventos para ingresos. | Expansión a nuevos mercados. | Competencia de plataformas de redes sociales. |
-| All Events | Enfoque local, cobertura amplia de eventos. | Limitada capacidad para eventos masivos. | Mayor enfoque en turismo local. | Competencia de nuevas plataformas locales. |
-| TickPick   | Precios transparentes, sin cargos adicionales. | Menor visibilidad frente a competidores. | Aumento de demanda para eventos en vivo. | Competencia de vendedores de entradas oficiales. |
-| Meetup     | Red activa de comunidades, alta interacción. | Competencia con redes sociales. | Crecimiento en eventos virtuales. | Cambios en tendencias de consumo de eventos. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
